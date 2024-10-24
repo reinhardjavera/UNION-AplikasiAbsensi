@@ -19,7 +19,7 @@ UNION is an application that allows users to perform attendance using photos and
 
 ## Application Demo
 
-Link Video: (https://youtu.be/ywkrqsVhKAQ)
+Link Video: https://youtu.be/ywkrqsVhKAQ
 
 ## Installation
 
