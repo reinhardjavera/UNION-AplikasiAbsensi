@@ -17,6 +17,10 @@ UNION is an application that allows users to perform attendance using photos and
 4. **Attendance History:** Lists all attendance records with the most recent entries at the top, while older records appear below.
 5. **Profile Page:** Users can enter their name and student ID (NIM), and save this information to Firebase.
 
+## Application Demo
+
+Link Video: (https://youtu.be/ywkrqsVhKAQ)
+
 ## Installation
 
 1. Clone this repository:
