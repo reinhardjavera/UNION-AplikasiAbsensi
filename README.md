@@ -1,4 +1,4 @@
-## UTS - IF570EL - Mobile Application
+## UTS - IF570EL - Mobile Application Programming
 
 - Reinhard Javera Maheswara (00000077732) - [@reinhardjavera](https://github.com/reinhardjavera)
 
