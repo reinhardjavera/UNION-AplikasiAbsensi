@@ -4,7 +4,7 @@
 
 # UNION - IF570EL (Lab)
 
-UNION is an application that allows users to perform attendance using photos and store data in Firebase. This application was created for the Midterm Exam of the IF570 Mobile Application course.
+UNION is an application that allows users to perform attendance using photos and store data in Firebase. This application was created for the Midterm Exam of the IF570 Mobile Application Programming course.
 
 ## Key Features
 
